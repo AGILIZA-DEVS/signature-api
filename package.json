@@ -1,6 +1,6 @@
 {
   "name": "@agiliza/signature-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A TypeScript library for digital document signing and verification",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
