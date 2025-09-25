@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agiliza/signature-api.git"
+    "url": "git+https://github.com/AGILIZA-DEVS/signature-api.git"
   },
   "bugs": {
-    "url": "https://github.com/agiliza/signature-api/issues"
+    "url": "https://github.com/AGILIZA-DEVS/signature-api/issues"
   },
-  "homepage": "https://github.com/agiliza/signature-api#readme",
+  "homepage": "https://github.com/AGILIZA-DEVS/signature-api#readme",
   "engines": {
     "node": ">=16.0.0"
   },
